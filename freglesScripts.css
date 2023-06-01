@@ -7,7 +7,7 @@
 	.section__main-midle{
 		width: 768px;
 	}
-	.section__main-left.section__main-right{
+	.section__main-left .section__main-right{
 		width: 0px;
 	}
 }
