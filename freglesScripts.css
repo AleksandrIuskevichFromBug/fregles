@@ -3,13 +3,16 @@
 	margin: 0;
 	box-sizing: border-box;
 }
-@media screen and (min-width:767px) {
+@media screen and (min-width:739px) {
 	.section__main-midle{
-		width: 768px;
+		width: 740px;
 	}
-	.section__main-left .section__main-right{
+	.section__main-left .section__main-righte{
 		width: 0px;
 	}
+    header footer{
+        width: 740px;
+    }
 }
 
 @media screen and (min-width: 1023px){
