@@ -2,6 +2,7 @@
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
+    
 }
 @media screen and (min-width:767px) {
 	.section__main-midle{
@@ -33,7 +34,7 @@
 header{
 	width: 100%;
 	height: 240px;
-	background-color: darkmagenta;
+	background-color: #386db2;
 }
 .section__main{
 	width: 100%;
@@ -45,7 +46,7 @@ header{
 .section__main-midle{
 	width: 768px;
 	height: 700px;
-	border: 1px solid;
+	/*border: 1px solid;*/
 	overflow: auto;
 	
 	}
@@ -57,11 +58,11 @@ header{
 
 .section__main-left{
 	width: auto;
-	height: 700px;
+	height: auto;
 }
 .section__main-right{
 	width: auto;
-	height: 700px;
+	height: auto;
 }
 footer{
 	width: 100%;
@@ -69,9 +70,14 @@ footer{
 	background-color: rgb(0, 21, 139);
 }
 .midle_picture{
-	width: 120px;
-	height:160px;
-	box-shadow: 5 5 5;
-	border: 1px solid red;
+	width: 210px;
+	height:274px;
+	box-shadow: 4px 4px 7px #386db2;
+	/*border: 0.5px solid #386db2;*/
+    margin: 10px;
+    border-radius: 10px;
+}
+.image_fregle{
+    border-radius: 10px;
 }
 
