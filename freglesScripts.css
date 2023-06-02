@@ -35,7 +35,7 @@
 	.section__main-left .section__main-right{
 		width: 0%;
 	}
-    header footer{
+    header{
         width: 360px;
         height: 30px;
     }
@@ -103,5 +103,11 @@ footer{
 }
 .image_fregle{
     border-radius: 10px;
+    cursor: zoom-in;
 }
+.image_fregle:hover{
+    width: calc(210px*1.08);
+    height: calc(274px*1.09);
+}
+
 
