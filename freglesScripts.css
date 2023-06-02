@@ -109,5 +109,10 @@ footer{
     width: calc(210px*1.08);
     height: calc(274px*1.09);
 }
+.logo{
+    position: absolute;
+    left: 10px;
+    top: 20px;
+}
 
 
